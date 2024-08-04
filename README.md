@@ -41,7 +41,7 @@ To replicate the analysis, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/obesity-estimation.git
+   git clone https://github.com/jbasurtod/predicting_obestiy_random_forests.git
 
 2. Navigate to the project directory:
    ```bash
